@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Jorene Gacusan</title>
+</head>
+<body>
+
+    <header>
+        <h1>Jorene Gacusan</h1>
+        <p>Email: jorenegacusan2606@gmail.com | Phone: 09162976676 | LinkedIn: linkedin.com/in/joren gacusan</p>
+    </header>
+
+    <section class="section">
+        <h2>Summary</h2>
+        <p>Objective to be hired In any position.I am college student lookibg For summer job.</p>
+    </section>
+
+    <section class="section">
+        <h2>Education</h2>
+        <p><strong>University Name</strong> - Bachelor of Science in Computer Science<br>
+        Graduation Date: None </p>
+    </section>
+
+    <section class="section">
+        <h2>Experience</h2>
+        <p><strong>Labor worker</strong> - QMC, Bacsayan Sta cruz Ilocos Sur<br>
+        Duration: 03 2020 - 03 21 <br>
+        
+
+        <p><strong>Tele com.</strong> - None, laoag Ilocos norte<br>
+        Duration: 04 21 - 08 22 Month Year<br>
+        
+    </section>
+
+    <section class="section">
+        <h2>Skills</h2>
+        <p>Hardworking Time management, active listener, communication skills, physical examination, Leadership.</p>
+    </section>
